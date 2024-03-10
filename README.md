@@ -1,2 +1,1 @@
-# api-nexgen-academy
- APi Nexgen Academy
+# Boilerplate for Typescript Express API hosted on Vercel
